@@ -131,7 +131,7 @@ When you have completed your story and made sure the tests run on your branch, y
 See [Github documentation](https://help.github.com/articles/creating-a-pull-request/) for a guide on how to create pull requests.
 
 ### <a id="ci"> Continuous Delivery </a>
-We use [CircleCI](https://circleci.com/gh/white-whale/workflows) for our CI/CD pipeline. This allows us to deploy builds in an automated way.
+We use [CircleCI]() for our CI/CD pipeline. This allows us to deploy builds in an automated way.
 
 Our CICD process works as such:
 
